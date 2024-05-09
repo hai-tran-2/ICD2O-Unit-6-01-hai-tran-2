@@ -10,19 +10,19 @@
  * this function find type of triangle
  */
 
-function calculteSumOfTwoNumber() {
+function calculteProductOfTwoNumber() {
   // input
   let firstNumber = parseFloat(document.getElementById("first-number").value)
   let secondNumber = parseFloat(document.getElementById("second-number").value)
-  let sumOfNumbers = 0
+  let productOfNumbers = 0
   let counter = 0
 
   // process
   while (counter < secondNumber) {
-    sumOfNumbers = sumOfNumbers + firstNumber
+    productOfNumbers = productOfNumbers + firstNumber
     counter++
     // output
     document.getElementById("result").innerHTML =
-      "The sum of two number is " + sumOfNumbers
+      "The product of two number is " + productOfNumbers
   }
 }
