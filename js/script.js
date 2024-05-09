@@ -20,8 +20,9 @@ function calculteSumOfTwoNumber() {
   // process
   while (counter < secondNumber) {
     sumOfNumbers = sumOfNumbers + firstNumber
-     counter++
-     // output
-    document.getElementById("result").innerHTML = "The sum of two number is " + sumOfNumbers
+    counter++
+    // output
+    document.getElementById("result").innerHTML =
+      "The sum of two number is " + sumOfNumbers
   }
 }
