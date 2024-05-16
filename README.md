@@ -6,7 +6,7 @@
 
 [![Deploy Pages](https://github.com/MTHS-ICD2O-1-2023/ICD2O-Unit-6-01-hai-tran-2/workflows/Deploy%20Pages/badge.svg)](https://github.com/hai-tran-2/ICD2O-Unit-6-01-hai-tran-2/actions)
 
-This site can be found at: [https://hai-tran-2/ICD2O-Unit-6-01-hai-tran-2](hai-tran-2/ICD2O-Unit-6-01-hai-tran-2)
+This site can be found at: [https://github.com/hai-tran-2/ICD2O-Unit-6-01-hai-tran-2](https://github.com/hai-tran-2/ICD2O-Unit-6-01-hai-tran-2)
 
 ---
 
